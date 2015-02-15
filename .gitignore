@@ -1,0 +1,6 @@
+.idea/
+apache-flume-1.5.2-bin/
+target/
+output/
+binary-source.iml
+SecurityAuth.audit
